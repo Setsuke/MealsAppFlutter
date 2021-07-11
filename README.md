@@ -1,1 +1,1 @@
-# MovieAppFlutter
+# MealsAppFlutter
